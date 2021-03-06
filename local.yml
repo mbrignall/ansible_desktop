@@ -14,7 +14,8 @@
         - micro
         - python3
         - python3-psutil
-        
+        - dconf
+                
   - name: copy wallpaper file
     copy: 
       src: files/wallpaper.jpg
